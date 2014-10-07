@@ -1,0 +1,2 @@
+Tiefensuche und Breitensuche: v + E = V + V*3	Jeder Knoten V ist genau 1 mal in der Queue. 3 von V ausgehende Kanten werden inspziert.
+
